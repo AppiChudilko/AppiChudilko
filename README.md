@@ -5,6 +5,8 @@
 
 ### About me
 
+- 🗽 Lives in New York · From Moscow, Russia
+- 🏖 Travel places: France, Germany, Monaco, Turkey, Mexico
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently hobby dev, marketing, design
-- ⚡ Fun fact: Art spaces, Astrophysics, Star Wars ,Linkin Park, JDM, Photography, Starbucks, Anime, Manya, Meerkats
+- 🎉 Hobby: dev, marketing, design
+- 💖 Fun fact: Art spaces, Astrophysics, Star Wars ,Linkin Park, JDM, Photography, Starbucks, Anime, Manya, Meerkats
