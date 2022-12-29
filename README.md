@@ -1,7 +1,7 @@
 ### Hello there!
 
 ![](https://i.imgur.com/LvWe8N2.gif)  
-[Source](https://gfycat.com/ru/unsteadyjitteryhypsilophodon-pikachu) · [My website](https://pozharov.xyz/)
+[Source](https://gfycat.com/ru/unsteadyjitteryhypsilophodon-pikachu)
 
 ### About me
 
