@@ -11,5 +11,6 @@
 - 🎉 Hobby: dev, marketing, design
 - 💖 Fun fact: Art spaces, Astrophysics, Star Wars ,Linkin Park, JDM, Photography, Starbucks, Anime, Manya, Meerkats
 
-[UnitedOfWeb is a UI/UX design and branding
-agency in New York](https://unitedofweb.com/) • [Instagram](https://www.instagram.com/appi.chudilko/) • [LinkedIn](https://www.linkedin.com/in/byappi/) • [Retelling](https://retell.in/)
+[United Of Web is a UI/UX design and branding
+agency in New York](https://unitedofweb.com/)
+[Instagram](https://www.instagram.com/appi.chudilko/) • [LinkedIn](https://www.linkedin.com/in/byappi/)
