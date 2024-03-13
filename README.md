@@ -21,6 +21,4 @@ agency in New York](https://unitedofweb.com/)
 Making game trailer for server on Rage.mp
 [https://www.youtube.com/watch?v=fOyKEZUS-LI](https://www.youtube.com/watch?v=fOyKEZUS-LI)
 
-[![Appi RolePlay (appi-rp.com)]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=fOyKEZUS-LI "Appi RolePlay (appi-rp.com)")    // Video Link
+[![Appi RolePlay (appi-rp.com)] (https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] (https://www.youtube.com/watch?v=fOyKEZUS-LI "Appi RolePlay (appi-rp.com)")
