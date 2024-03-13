@@ -73,3 +73,12 @@ Text Draw Intro (GTA:SA Modding / 2014y)
 [https://www.youtube.com/watch?v=2P86QaiKD-g](https://www.youtube.com/watch?v=2P86QaiKD-g)
 
 [![Appi RolePlay (appi-rp.com)](https://img.youtube.com/vi/2P86QaiKD-g/0.jpg)](http://www.youtube.com/watch?v=2P86QaiKD-g)
+
+
+https://github.com/AppiChudilko/AppiChudilko/assets/15974887/7a97c09c-2816-4201-9fde-a19a38ca8cf8
+
+[![Watch the video](https://github.com/AppiChudilko/AppiChudilko/assets/YourImageFileName.png)](https://github.com/AppiChudilko/AppiChudilko/assets/15974887/7a97c09c-2816-4201-9fde-a19a38ca8cf8)
+
+
+
+
