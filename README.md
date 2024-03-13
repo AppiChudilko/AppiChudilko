@@ -15,3 +15,8 @@
 agency in New York](https://unitedofweb.com/)
 
 [Instagram](https://www.instagram.com/appi.chudilko/) • [LinkedIn](https://www.linkedin.com/in/byappi/)
+
+### Some things by me & my team
+
+Making game trailer for server on Rage.mp
+[https://www.youtube.com/watch?v=fOyKEZUS-LI](https://www.youtube.com/watch?v=fOyKEZUS-LI)
