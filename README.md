@@ -36,7 +36,13 @@ Making Stalker Mod & Trailer (DayZ Modding / 2021y)
 
 ---
 
-Custom realistic siren system (GTA:SA Modding / 2022y)
+Custom realistic siren system (GTA:V Modding / 2022y)
+
+https://github.com/AppiChudilko/AppiChudilko/assets/15974887/612ee3e3-8044-4298-b235-55bcdb6d5ef5
+
+---
+
+Custom damage system (GTA:V Modding / 2022y)
 
 https://github.com/AppiChudilko/AppiChudilko/assets/15974887/7a97c09c-2816-4201-9fde-a19a38ca8cf8
 
