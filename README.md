@@ -50,7 +50,7 @@ https://github.com/AppiChudilko/AppiChudilko/assets/15974887/7a97c09c-2816-4201-
 
 Custom vehicle wheels (GTA:V Modding / 2022y)
 
-![Vehicle wheels](https://github.com/AppiChudilko/AppiChudilko/assets/15974887/354f0ec9-431c-42ca-a3ea-49b4017b50b3
+![Vehicle wheels](https://github.com/AppiChudilko/AppiChudilko/assets/15974887/354f0ec9-431c-42ca-a3ea-49b4017b50b3)
 
 ---
 
