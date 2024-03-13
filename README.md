@@ -42,3 +42,10 @@ Drone system (GTA:V Modding)
 
 [![Appi RolePlay (appi-rp.com)](https://img.youtube.com/vi/49c4mBeTEs8/0.jpg)](http://www.youtube.com/watch?v=49c4mBeTEs8)
 
+---
+
+Hacker system (GTA:V Modding)
+
+[https://www.youtube.com/watch?v=pSabysUZwfA](https://www.youtube.com/watch?v=pSabysUZwfA)
+
+[![Appi RolePlay (appi-rp.com)](https://img.youtube.com/vi/pSabysUZwfA/0.jpg)](http://www.youtube.com/watch?v=pSabysUZwfA)
