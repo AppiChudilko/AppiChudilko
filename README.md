@@ -48,6 +48,18 @@ https://github.com/AppiChudilko/AppiChudilko/assets/15974887/7a97c09c-2816-4201-
 
 ---
 
+Custom vehicle wheels (GTA:V Modding / 2022y)
+
+![Vehicle wheels](https://github.com/AppiChudilko/AppiChudilko/assets/15974887/354f0ec9-431c-42ca-a3ea-49b4017b50b3
+
+---
+
+Custom lore-friendly vehicles (GTA:V Modding / 2022y)
+
+![Lore friendly vehciles](https://github.com/AppiChudilko/AppiChudilko/assets/15974887/9e07bb95-504f-4266-9b2d-28c31820ce70)
+
+---
+
 Drift system (GTA:V Modding / 2022y)
 
 [https://www.youtube.com/watch?v=IIZy-Gni3yo](https://www.youtube.com/watch?v=fIIZy-Gni3yo)
