@@ -18,9 +18,9 @@ agency in New York](https://unitedofweb.com/)
 
 ---
 
-### Some things by me & my team
+### Some projects of mine & my team
 
-Making game trailer for server on Rage.mp (GTA:V Modding / 2022y)
+Game trailer for server on Rage.mp (GTA:V Modding / 2022y)
 
 [https://www.youtube.com/watch?v=fOyKEZUS-LI](https://www.youtube.com/watch?v=fOyKEZUS-LI)
 
@@ -28,7 +28,7 @@ Making game trailer for server on Rage.mp (GTA:V Modding / 2022y)
 
 ---
 
-Making Stalker Mod & Trailer (DayZ Modding / 2021y)
+Stalker Mod & Trailer (DayZ Modding / 2021y)
 
 [https://www.youtube.com/watch?v=SgjHYHNxKuY](https://www.youtube.com/watch?v=SgjHYHNxKuY)
 
