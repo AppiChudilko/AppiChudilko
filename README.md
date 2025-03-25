@@ -12,7 +12,7 @@
 - 💖 Fun fact: Art spaces, Astrophysics, Star Wars, Linkin Park, JDM, Photography, Starbucks, Anime, Meerkats
 
 [AP Studio is a UI/UX design and branding
-agency in New York](https:/byappi.com/)
+agency in New York](https://byappi.com/)
 
 [Instagram](https://www.instagram.com/appi.chudilko/) • [LinkedIn](https://www.linkedin.com/in/byappi/)
 
